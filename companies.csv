@@ -1,0 +1,31 @@
+company_id,company_name,company_type,location,technology,resources
+1,Tech Innovators,IT Services,New York,Data Science,Data Scientist
+2,Cyber Secure Ltd,Security Services,San Francisco,Cyber Security,Security Analyst
+3,Cloud Solutions,Cloud Services,Seattle,Cloud Computing,Cloud Engineer
+4,RoboTech,Robotics,Los Angeles,Robotic Process Automation,RPA Developer
+5,Ansible Masters,IT Services,Austin,Ansible Python,DevOps Engineer
+6,Full Stack Solutions,Software Development,Chicago,Java Full Stack,Full Stack Developer
+7,Dot Net Experts,Software Development,Boston,Dot Net Full Stack,Full Stack Developer
+8,Mainframe Inc.,IT Services,Houston,IBM Mainframe,Mainframe Engineer
+9,ComputeCloud,Cloud Services,Denver,Cloud Computing,Cloud Architect
+10,Data Wizards,Database Services,San Diego,Database Administration,DBA
+11,OS Techies,IT Services,Dallas,Operating System,System Administrator
+12,SecureStorage,Storage Services,San Jose,Storage Administration,Storage Engineer
+13,Reactify,Web Development,New York,React JS,Frontend Developer
+14,NodeMasters,Web Development,San Francisco,Node JS,Backend Developer
+15,MobileSoft,Mobile Development,Seattle,iOS Development,iOS Developer
+16,DroidWorks,Mobile Development,Los Angeles,Android Development,Android Developer
+17,Tech Pioneers,IT Services,Austin,Data Science,Data Analyst
+18,SecureNet,Security Services,Chicago,Cyber Security,Cybersecurity Specialist
+19,Big Data Analytics,Analytics,Boston,Big Data,Big Data Engineer
+20,Network Solutions,IT Services,Houston,Networking,Network Engineer
+21,Cloud Innovators,Cloud Services,Denver,Cloud Computing,Cloud Developer
+22,Data Guardians,Database Services,San Diego,Database Administration,Database Manager
+23,SysOps,IT Services,Dallas,Operating System,System Operator
+24,StoreTech,Storage Services,San Jose,Storage Administration,Storage Specialist
+25,React Developers,Web Development,New York,React JS,React Developer
+26,Node Coders,Web Development,San Francisco,Node JS,Node Developer
+27,iOS Creators,Mobile Development,Seattle,iOS Development,iOS Engineer
+28,Android Innovators,Mobile Development,Los Angeles,Android Development,Android Engineer
+29,Data Science Hub,IT Services,Austin,Data Science,Data Scientist
+30,CyberSecure,Security Services,Chicago,Cyber Security,Security Consultant

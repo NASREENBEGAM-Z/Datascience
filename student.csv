@@ -1,0 +1,31 @@
+student_id,student_name,education,contact_number,work_experience,college,course_enrolled,start_date
+1,"John Doe",B.Tech,1234567890,2,"XYZ University","Data Science",2024-01-15
+2,"Jane Smith",M.Tech,0987654321,3,"ABC University","Big Data",2024-02-01
+3,"Alice Johnson",B.Sc,1234509876,1,"LMN College","Cyber Security",2024-03-12
+4,"Bob Brown",B.Tech,2234567890,4,"XYZ University","Java Full Stack",2024-01-22
+5,"Carol White",M.Tech,3234567890,5,"DEF University","Cloud Computing",2024-02-15
+6,"Dave Black",MCA,4234567890,2,"PQR University","Database Administration",2024-03-18
+7,"Eve Green",BCA,5234567890,1,"LMN College","Operating System",2024-01-25
+8,"Frank Blue",B.Sc,6234567890,2,"STU College",Networking,2024-02-05
+9,"Grace Yellow",M.Sc,7234567890,3,"UVW University","Data Science",2024-03-10
+10,"Hank Red",B.Tech,8234567890,4,"XYZ University","Big Data",2024-01-30
+11,"Ivy Violet",M.Tech,9234567890,2,"ABC University","Cyber Security",2024-02-20
+12,"Jack Silver",B.Sc,1234567891,1,"LMN College","Robotic Process Automation",2024-03-15
+13,"Kelly Gold",M.Tech,1234567892,3,"XYZ University","Ansible Python",2024-01-12
+14,"Liam Gray",BCA,1234567893,2,"DEF University","Java Full Stack",2024-02-22
+15,"Mia Blue",B.Tech,1234567894,1,"PQR University","Dot Net Full Stack",2024-03-25
+16,"Noah Brown",MCA,1234567895,4,"LMN College","IBM Mainframe",2024-01-29
+17,"Olivia White",B.Sc,1234567896,5,"STU College","Cloud Computing",2024-02-28
+18,"Paul Black",M.Tech,1234567897,3,"UVW University","Database Administration",2024-03-29
+19,"Quinn Green",B.Tech,1234567898,2,"XYZ University","Operating System",2024-01-20
+20,"Ruby Red",M.Sc,1234567899,1,"ABC University","Storage Administration",2024-02-12
+21,"Sam Blue",BCA,2234567891,3,"DEF University","React JS",2024-03-30
+22,"Tina Yellow",MCA,3234567891,4,"PQR University","Node JS",2024-01-31
+23,"Uma Violet",B.Tech,4234567891,2,"LMN College","iOS Development",2024-02-10
+24,"Vince Silver",M.Tech,5234567891,1,"STU College","Android Development",2024-03-01
+25,"Wendy Gold",B.Sc,6234567891,3,"UVW University","Cloud Computing",2024-01-13
+26,"Xander Gray",BCA,7234567891,2,"XYZ University","Cyber Security",2024-02-14
+27,"Yara Brown",MCA,8234567891,4,"ABC University","Data Science",2024-03-02
+28,"Zane White",B.Tech,9234567891,5,"DEF University","Big Data",2024-01-23
+29,"Abby Black",M.Sc,1234567892,1,"PQR University",Networking,2024-02-04
+30,"Bill Green",B.Tech,2234567892,3,"LMN College","Cloud Computing",2024-03-11

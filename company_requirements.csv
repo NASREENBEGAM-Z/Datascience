@@ -1,0 +1,31 @@
+requirement_id,company_id,technology,resource_count,expected_start_date,duration,requirement_status
+1,1,Data Science,5,2024-01-20,30,Pending
+2,2,Cyber Security,3,2024-02-10,60,Completed
+3,3,Cloud Computing,4,2024-03-15,45,In Progress
+4,4,Robotic Process Automation,2,2024-01-25,90,Pending
+5,5,Ansible Python,3,2024-02-05,30,Completed
+6,6,Java Full Stack,6,2024-03-10,60,In Progress
+7,7,Dot Net Full Stack,4,2024-01-15,30,Pending
+8,8,IBM Mainframe,5,2024-02-20,45,Completed
+9,9,Cloud Computing,3,2024-03-25,30,In Progress
+10,10,Database Administration,2,2024-01-20,60,Pending
+11,11,Operating System,4,2024-02-10,90,Completed
+12,12,Storage Administration,5,2024-03-20,30,In Progress
+13,13,React JS,3,2024-01-25,60,Pending
+14,14,Node JS,2,2024-02-15,45,Completed
+15,15,iOS Development,6,2024-03-30,30,In Progress
+16,16,Android Development,4,2024-01-20,90,Pending
+17,17,Data Science,5,2024-02-10,60,Completed
+18,18,Cyber Security,3,2024-03-15,45,In Progress
+19,19,Big Data,4,2024-01-25,30,Pending
+20,20,Networking,2,2024-02-05,90,Completed
+21,21,Cloud Computing,6,2024-03-10,60,In Progress
+22,22,Database Administration,4,2024-01-15,30,Pending
+23,23,Operating System,5,2024-02-20,45,Completed
+24,24,Storage Administration,3,2024-03-25,30,In Progress
+25,25,React JS,2,2024-01-20,60,Pending
+26,26,Node JS,4,2024-02-10,90,Completed
+27,27,iOS Development,5,2024-03-20,30,In Progress
+28,28,Android Development,3,2024-01-25,60,Pending
+29,29,Data Science,2,2024-02-15,45,Completed
+30,30,Cyber Security,6,2024-03-30,30,In Progress
